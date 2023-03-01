@@ -15,6 +15,7 @@
     </properties>
 
     <modules>
+        <module>tbschedule-console-springboot</module>
         <module>tbschedule-core</module>
         <module>tbschedule-console</module>
         <module>tbschedule-example</module>
